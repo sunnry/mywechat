@@ -1,0 +1,12 @@
+{
+	"name":"mywechat",
+	"private":true,
+	"version":"0.0.1",
+	"description":"node project for my public wechat robot",
+	"repository":"https://github.com/sunnry/mywechat.git",
+	"License":"GPLv2",
+	"devDependencies":{
+		"wechat":"1.0.0",
+		"express":"4.4.x"
+	}
+}
